@@ -27,4 +27,6 @@ const App = () => {
   );
 };
 
-render(<App />, document.querySelector("#root"));
+// render(<App />, document.querySelector("#root"));
+
+export default App;
